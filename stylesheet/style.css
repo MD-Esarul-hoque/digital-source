@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.box{
+    width: 230px;
+    height: 250px;
+    box-shadow: 4px 4px 15px  gray;
+    background-color: black;
+    text-align: center;
+    color: azure;
+    padding: 15px;
+    border-radius: 10px;
+    
+  
+}
+.icon{  
+ width: 70px;
+ margin-bottom: 10px;
+}
